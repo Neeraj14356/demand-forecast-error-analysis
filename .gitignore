@@ -1,2 +1,10 @@
 01_Datasets/raw/
 01_Datasets/
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.env
+*.log
+Thumbs.db
+~
